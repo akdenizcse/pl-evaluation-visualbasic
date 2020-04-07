@@ -1,0 +1,4 @@
+E:\Projects\VisualStudio-Projects\VisualBasicApp\VisualBasicApp\obj\Debug\VisualBasicApp.vbprojAssemblyReference.cache
+E:\Projects\VisualStudio-Projects\VisualBasicApp\VisualBasicApp\obj\Debug\VisualBasicApp.Resources.resources
+E:\Projects\VisualStudio-Projects\VisualBasicApp\VisualBasicApp\obj\Debug\VisualBasicApp.vbproj.GenerateResource.cache
+E:\Projects\VisualStudio-Projects\VisualBasicApp\VisualBasicApp\obj\Debug\VisualBasicApp.vbproj.CoreCompileInputs.cache
