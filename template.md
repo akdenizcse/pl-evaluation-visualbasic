@@ -9,7 +9,7 @@ Content of the report and which part is designed by whom are shared below.
 
 ## Contents
 
-- Introduction                                          Fatma Erkan                    
+###### Introduction                                          Fatma Erkan                    
 - Authors                                               Tuğba Güler
 - History of the Language                               Tuğba Güler
 - Which Language Influenced It                          Tuğba Güler
