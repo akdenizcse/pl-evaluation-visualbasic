@@ -1,7 +1,9 @@
 ## Visual Basic Programming Language 
 
-Group Members:  Fatma Erkan - 20150807029
-                Tuğba Güler - 20150807012
+Group Members: 
+
+###### Fatma Erkan - 20150807029
+###### Tuğba Güler - 20150807012
 
 ## Explanations about the language
 This repository contains documentation and a project about Visual Basic programming language.
